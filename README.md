@@ -4,6 +4,6 @@ This is a basic profile page for my online username **@n1ls**
 
 ## To-Dos
 
-- [ ] fix social icons 
-- [ ] update urls
+- [X] fix social icons 
+- [X] update urls
 - [ ] publish via nginx docker container
