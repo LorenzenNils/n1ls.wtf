@@ -47,7 +47,7 @@ body {
   left: 40px;
 }
 
-.pic {
+.profile-img {
   width: 150px;
   height: 150px;
   margin: auto;
@@ -58,7 +58,7 @@ body {
   position: relative;
 }
 
-.pic:after {
+.profile-img:after {
   content: "";
   width: 100%;
   height: 100%;
@@ -78,7 +78,7 @@ body {
   }
 }
 
-.pic img {
+.profile-img img {
   width: 100%;
   height: 100%;
   border-radius: 50%;
